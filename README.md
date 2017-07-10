@@ -1,0 +1,2 @@
+# ShortMessageKettle
+在kettle中集成一个发送短信的插件
